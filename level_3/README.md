@@ -1,6 +1,6 @@
 # Level 3: Reverse Shell with Unicode Steganography
 
-[Back to main](../README.md) | [← Level 2](../level_2/README.md)
+[Back to main](../) | [← Level 2](../level_2/)
 
 ---
 
@@ -25,7 +25,7 @@
 - How to generate "bait" files that look like normal programs but execute hidden code
 - How to **detect and defend** against this type of attack
 
-**Prerequisites**: having completed [Level 1](../level_1/README.md) and [Level 2](../level_2/README.md) to understand the encoding techniques.
+**Prerequisites**: having completed [Level 1](../level_1/) and [Level 2](../level_2/) to understand the encoding techniques.
 
 ---
 

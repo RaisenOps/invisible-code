@@ -27,5 +27,8 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 
+# Local assets
+level_3/assets/
+
 # Claude Code
 .claude/

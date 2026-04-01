@@ -1,6 +1,6 @@
 # Level 2: Steganography with Variation Selectors
 
-[Back to main](../README.md) | [← Level 1](../level_1/README.md) | [Level 3 →](../level_3/README.md)
+[Back to main](../) | [← Level 1](../level_1/) | [Level 3 →](../level_3/)
 
 ---
 
@@ -26,7 +26,7 @@
 - Why this technique is 8 times more compact than Level 1
 - The tradeoff between compactness and universal invisibility
 
-**Prerequisite**: having completed [Level 1](../level_1/README.md) to understand binary encoding.
+**Prerequisite**: having completed [Level 1](../level_1/) to understand binary encoding.
 
 ---
 
@@ -184,4 +184,4 @@ The output proves that the string that appeared empty contains "Hello World I am
 
 In **Level 3** you will see how this technique is used in a real (controlled and educational) attack: a full **reverse shell** hidden inside code files that work normally. You will also learn how to **detect and defend** against these attacks.
 
-[Go to Level 3 →](../level_3/README.md)
+[Go to Level 3 →](../level_3/)

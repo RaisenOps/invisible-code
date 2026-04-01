@@ -66,7 +66,7 @@ The goal is **educational**: understand how these attacks work so you can defend
 
 - Each level is **self-contained** with its own code and README
 - Each language is **independent**: use Python, JavaScript, or C# without needing the others
-- The `defense/` folder contains [scanners](defense/README.md) that detect invisible characters in any file
+- The `defense/` folder contains [scanners](defense/) that detect invisible characters in any file
 
 ---
 
@@ -76,9 +76,9 @@ The project is organized into **3 progressive levels**. Each level is self-conta
 
 | Level | Technique | What you will learn | Difficulty |
 |-------|-----------|---------------------|------------|
-| [**Level 1**](level_1/README.md) | Zero-Width binary | Binary encoding with invisible characters. 2 characters (U+200B, U+200D) represent bits 0 and 1. Invisible in ALL editors. | Introductory |
-| [**Level 2**](level_2/README.md) | Variation Selectors | 256 invisible characters that map 1:1 to bytes. 8x more compact than Level 1. Invisible in IDEs and GitHub. | Basic |
-| [**Level 3**](level_3/README.md) | Full reverse shell | Real-world application: a benign reverse shell hidden inside files that look normal. Generators, listeners, and defense. | Basic type II |
+| [**Level 1**](level_1/) | Zero-Width binary | Binary encoding with invisible characters. 2 characters (U+200B, U+200D) represent bits 0 and 1. Invisible in ALL editors. | Introductory |
+| [**Level 2**](level_2/) | Variation Selectors | 256 invisible characters that map 1:1 to bytes. 8x more compact than Level 1. Invisible in IDEs and GitHub. | Basic |
+| [**Level 3**](level_3/) | Full reverse shell | Real-world application: a benign reverse shell hidden inside files that look normal. Generators, listeners, and defense. | Basic type II |
 
 **Recommendation**: start with Level 1 even if you already have experience. Each level builds on the previous one, and the progression makes everything clearer.
 
@@ -159,7 +159,7 @@ Multiple families of invisible Unicode characters can be exploited. Each one car
 | Shorthand Controls | U+1BCA0-1BCA3 | LOW | Invisible shorthand formatting |
 | Other Invisible | U+00AD, U+034F, U+180E, U+FEFF | LOW | Soft Hyphen, CGJ, MVS, BOM |
 
-The [defense scanners](defense/README.md) in this project detect all 14 categories.
+The [defense scanners](defense/) in this project detect all 14 categories.
 
 ---
 
@@ -195,7 +195,7 @@ node defense/javascript/unicode_scanner.js --decode suspicious_file.js
 
 > Protects against: **all vectors** (shared files, PRs, packages, hidden commits)
 
-For more details on using the scanner, see the [defense README](defense/README.md).
+For more details on using the scanner, see the [defense README](defense/).
 
 ### 2. Disable automatic script execution in npm/pnpm
 

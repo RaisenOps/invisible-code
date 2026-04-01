@@ -1,6 +1,6 @@
 # Level 1: Binary Encoding with Invisible Characters
 
-[Back to main](../README.md) | [Next: Level 2 →](../level_2/README.md)
+[Back to main](../) | [Next: Level 2 →](../level_2/)
 
 ---
 
@@ -152,4 +152,4 @@ Each byte of the message requires 8 invisible characters (one per bit).
 
 In **Level 2** you will learn about **Variation Selectors**: a technique that uses only **1 invisible character per byte** instead of 8. It is 8 times more compact than Level 1, but it has a tradeoff you will discover when you get there.
 
-[Go to Level 2 →](../level_2/README.md)
+[Go to Level 2 →](../level_2/)
