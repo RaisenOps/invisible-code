@@ -259,7 +259,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<div align="center">
-  <p>If this helps you, consider giving it a ⭐</p>
-  <p>Made with ❤️ for you</p>
-</div>
+<h1 align="center">⭐ If this helps you, consider giving it a ⭐</h1>
+<h3 align="center">Made with ❤️ for you</h3>
+
