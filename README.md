@@ -1,4 +1,14 @@
+<div align="center">
+  
 # Invisible Unicode, Educational Demo of Attacks and Defense with Invisible Characters
+
+![Windows](https://img.shields.io/badge/Windows-OS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-OS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-OS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security-2E8B57?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+</div>
+
 
 An educational project demonstrating how invisible Unicode characters can be used to hide malicious code within empty variables in seemingly legitimate source files, along with **defense** tools to detect them.
 
