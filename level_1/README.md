@@ -1,6 +1,6 @@
 # Level 1: Binary Encoding with Invisible Characters
 
-[Back to main](../README.md) | [Next: Level 2 →](../level_2/)
+[Back to main](https://github.com/RaisenOps/invisible-code) | [Next: Level 2 →](../level_2/)
 
 ---
 

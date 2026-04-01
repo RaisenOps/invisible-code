@@ -1,6 +1,6 @@
 # Defense — Unicode Invisible Character Scanner
 
-[Back to main](../README.md)
+[Back to main](https://github.com/RaisenOps/invisible-code)
 
 A tool that detects **14 categories** of invisible Unicode characters in source code files. It identifies the technique used, the risk level, the affected lines, and decodes the hidden payload.
 
