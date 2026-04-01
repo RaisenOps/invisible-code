@@ -2,6 +2,9 @@
 
 An educational project demonstrating how invisible Unicode characters can be used to hide malicious code inside seemingly legitimate source files, along with **defense** tools to detect them.
 
+<img width="558" height="148" alt="img" src="https://github.com/user-attachments/assets/b9d7f0bb-29c9-4c32-bf59-470d29efe653" />
+
+
 ---
 
 ## Table of Contents
