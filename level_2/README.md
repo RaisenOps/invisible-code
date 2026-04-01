@@ -1,6 +1,6 @@
 # Level 2: Steganography with Variation Selectors
 
-[Back to main](../) | [← Level 1](../level_1/) | [Level 3 →](../level_3/)
+[Back to main](../README.md) | [← Level 1](../level_1/) | [Level 3 →](../level_3/)
 
 ---
 
