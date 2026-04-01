@@ -1,6 +1,6 @@
 # Invisible Unicode, Educational Demo of Attacks and Defense with Invisible Characters
 
-An educational project demonstrating how invisible Unicode characters can be used to hide malicious code inside seemingly legitimate source files, along with **defense** tools to detect them.
+An educational project demonstrating how invisible Unicode characters can be used to hide malicious code within empty variables in seemingly legitimate source files, along with **defense** tools to detect them.
 
 <img width="558" height="148" alt="img" src="https://github.com/user-attachments/assets/b9d7f0bb-29c9-4c32-bf59-470d29efe653" />
 
@@ -24,7 +24,7 @@ An educational project demonstrating how invisible Unicode characters can be use
 
 ## What is this?
 
-This project simulates a real, yet benign and controlled, cyberattack technique: hiding a PAYLOAD, in this case a **reverse shell**, inside invisible Unicode characters. The malicious code is concealed **between the quotes** of a string that appears to be empty; text editors, web browsers, and even GitHub show nothing there. Anyone opening the file sees normal code with completely empty quotes, but running it launches a hidden background process.
+This project simulates several real-world cyberattack techniques, though in a benign and controlled manner: concealing a payload within invisible Unicode characters. The malicious code is concealed **between the quotes** of a string that appears to be empty; text editors, web browsers, and even GitHub show nothing there. Anyone opening the file sees normal code with completely empty quotes, but running it launches a hidden background process.
 
 The goal is **educational**: understand how these attacks work so you can defend against them. Learn how these attacks operate in supply chain attacks (Supply Chain Attacks) and other attack types so you can protect CI/CD pipelines, developer workstations, production environments, and even guard against running a seemingly harmless file containing invisible code.
 
