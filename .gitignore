@@ -1,0 +1,31 @@
+# Generated bait files
+**/Bait To Client/
+**/Cebo To Client/
+
+# Generator state
+.last_target
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Node
+node_modules/
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Claude Code
+.claude/
