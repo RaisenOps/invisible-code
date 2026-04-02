@@ -1,6 +1,6 @@
 <div align="center">
   
-# Invisible Unicode, Educational Demo of Attacks and Defense with Invisible Characters
+# Invisible-Code, Educational Demo of Attacks and Defense with Invisible Characters
 
 ![Windows](https://img.shields.io/badge/Windows-OS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-OS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
